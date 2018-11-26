@@ -1,5 +1,5 @@
-function cipher(msg, n) {
+function encrypt(msg, n) {
 
 }
 
-module.exports = cipher;
+module.exports = encrypt;
