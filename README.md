@@ -1,8 +1,8 @@
 # exercise-caesar-cipher
-An intentioncally unfinished exercise for implementing caesar cipher
+An intentionally unfinished exercise for implementing caesar cipher
 
 
-### instructions
+### Instructions
 
 - Fork this repository in GitHub
 - Clone your fork locally `git clone <url-to-your-fork>`
